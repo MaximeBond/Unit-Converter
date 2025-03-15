@@ -8,6 +8,9 @@ A simple GUI-based unit converter built with Tkinter. This application allows us
 - Built-in help system for conversion formulas
 - User-friendly graphical interface
 
+## Preview
+![Unit Converter Screenshot](screenshot.png)
+
 ## Installation
 ### Prerequisites
 Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
@@ -27,8 +30,11 @@ Run the following command to start the application:
 python unit_converter.py
 ```
 
+### Executable (Windows) ⚡
+If you're using Windows, you can directly download and use the `.exe` file in the `dist` folder!
+
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License, meaning you are free to use, modify, and distribute it as long as you include the original license. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 Maxime Bonnaud
