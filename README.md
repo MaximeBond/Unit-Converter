@@ -30,7 +30,7 @@ Run the following command to start the application:
 python unit_converter.py
 ```
 
-### Executable (Windows) ⚡
+## Executable (Windows) ⚡
 If you're using Windows, you can directly download and use the `.exe` file in the `dist` folder!
 
 ## License
